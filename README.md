@@ -1,1 +1,0 @@
-# coba-plugin-hapi
